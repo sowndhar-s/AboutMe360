@@ -13,9 +13,10 @@ function Header() {
           </h1>
         </div>
 
-        {/* Bootstrap Navigation Bar */}
-        <nav className="navbar navbar-expand-lg" style={{ backgroundColor: '#1a1a2e' }}>
+       {/* Bootstrap Navigation Bar */}
+        <nav className="navbar navbar-expand-lg navbar-dark fixed-top" style={{ backgroundColor: '#1a1a2e' }}>
           <div className="container-fluid">
+            {/* Toggle Button for Mobile View */}
             <button
               className="navbar-toggler"
               type="button"
@@ -27,11 +28,22 @@ function Header() {
             >
               <span className="navbar-toggler-icon" style={{ color: '#ffffff' }}></span>
             </button>
+
+            {/* Navbar Links */}
             <div className="collapse navbar-collapse justify-content-center" id="navbarNav">
               <ul className="navbar-nav">
                 {['About', 'Education', 'Works', 'Hobbies', 'Contact'].map((item) => (
-                  <li className="nav-item mx-2" key={item}>
-                    <a className="nav-link" href={`#${item.toLowerCase()}`} style={{ color: '#f9ed69', fontSize: '0.85rem' }}>
+                  <li className="nav-item mx-3" key={item}>
+                    <a
+                      className="nav-link"
+                      href={`#${item.toLowerCase()}`}
+                      style={{
+                        color: '#f9ed69',
+                        fontSize: '1rem',
+                        fontWeight: '500',
+                        textTransform: 'uppercase',
+                      }}
+                    >
                       {item}
                     </a>
                   </li>
