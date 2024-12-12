@@ -22,7 +22,7 @@ const Footer = () => {
           <a href="https://github.com/sowndhar-s" target="_blank" rel="noopener noreferrer" className="mx-3">
             <FaGithub size={30} color="#ecf0f1" /> {/* GitHub Icon */}
           </a>
-          <a href="mailto:sowndharofficial99@gmail.com<">
+          <a href="mailto:sowndharofficial99@gmail.com">
             <FaEnvelope size={30} color="#ecf0f1" /> {/* Email Icon */}
           </a>
         </div>
