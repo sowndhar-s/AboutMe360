@@ -4,7 +4,7 @@ import CollegePic from 'C:\\Users\\onw1cob\\Documents\\React JS\\my-app\\src\\im
 function Education() {
   return (
     <section id="education" className="education-section py-5" style={{ backgroundColor: '#ffe6e6' }}>
-      <div className="container mt-5 pt-5">
+      <div className="container">
         <h2 className="section-title text-center mb-4" style={{ color: '#ff4d4d' }}>📚 My Education Journey</h2>
         <div className="row align-items-center">
           <div className="col-md-8">

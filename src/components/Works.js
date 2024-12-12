@@ -4,7 +4,7 @@ import CompanyPic from 'C:\\Users\\onw1cob\\Documents\\React JS\\my-app\\src\\im
 const Works = () => {
   return (
     <section id="works" className="work-section py-5" style={{ backgroundColor: '#e6f9ff' }}>
-      <div className="container mt-5 pt-5">
+      <div className="container">
         <h2 className="section-title text-center mb-4" style={{ color: '#007acc' }}>💼 My Work Adventures</h2>
         <div className="row align-items-center">
           <div className="col-md-4 text-center mb-4">

@@ -11,7 +11,7 @@ const Contact = () => {
         color: '#2c3e50', // Darker text color for contrast
       }}
     >
-      <div className="container mt-5 pt-5">
+      <div className="container">
         <h2 className="section-title text-center mb-4">📬 Get in Touch!</h2>
         <div className="row align-items-center">
           <div className="col-md-4 mb-4">
