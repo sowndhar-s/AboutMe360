@@ -1,6 +1,6 @@
 import React from "react";
 
-import profilePic from 'C:\\Users\\onw1cob\\Documents\\React JS\\my-app\\src\\img\\Profile.jpg'
+import profilePic from 'C:\\Users\\onw1cob\\Documents\\React JS\\my-app\\src\\img\\MyPhoto.jpg'
 
 function About() {
   return (
