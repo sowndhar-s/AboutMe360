@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AboutMe360/static/css/main.79d19d76.css",
-    "main.js": "/AboutMe360/static/js/main.9621c3a2.js",
+    "main.js": "/AboutMe360/static/js/main.fb7ba827.js",
     "static/js/592.7f72a991.chunk.js": "/AboutMe360/static/js/592.7f72a991.chunk.js",
     "static/media/MyPhoto.jpg": "/AboutMe360/static/media/MyPhoto.ebc354e2506669dda89f.jpg",
     "static/media/Kct-college.jpg": "/AboutMe360/static/media/Kct-college.3a3525cdb759296abd6b.jpg",
@@ -10,11 +10,11 @@
     "static/media/ContactMe.jpg": "/AboutMe360/static/media/ContactMe.4b0a858c3eb9e78d2e07.jpg",
     "index.html": "/AboutMe360/index.html",
     "main.79d19d76.css.map": "/AboutMe360/static/css/main.79d19d76.css.map",
-    "main.9621c3a2.js.map": "/AboutMe360/static/js/main.9621c3a2.js.map",
+    "main.fb7ba827.js.map": "/AboutMe360/static/js/main.fb7ba827.js.map",
     "592.7f72a991.chunk.js.map": "/AboutMe360/static/js/592.7f72a991.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.79d19d76.css",
-    "static/js/main.9621c3a2.js"
+    "static/js/main.fb7ba827.js"
   ]
 }
