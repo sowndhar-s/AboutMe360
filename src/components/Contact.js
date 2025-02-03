@@ -84,7 +84,7 @@ const Contact = () => {
                 animate="visible"
                 variants={slideIn}
               >
-                Drop me an email at <a href="mailto:sowndharofficial99@gmail.com">example@example.com</a> for any inquiries or just to say hello.
+                Drop me an email at <a href="mailto:sowndharofficial99@gmail.com">esowndharofficial99@gmail.com</a> for any inquiries or just to say hello.
               </motion.p>
               <motion.h3 
                 style={{ color: '#2c3e50' }}
